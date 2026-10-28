@@ -170,11 +170,11 @@
 ## 12. نتائج الجولة الأولى — 28 أكتوبر 2026
 
 أُنشئت ثلاثة مفاهيم أولية واختُبرت بنيوياً وبصرياً:
-- [A — كلمة سلطانة](../concepts/concept-a-wordmark.svg)
-- [B — حرف س داخل قوس](../concepts/concept-b-arch-monogram.svg)
-- [C — ختم سلطانة](../concepts/concept-c-seal.svg)
-- [صفحة المقارنة والملاحظات](../concepts/README.md)
-- [تقرير الفحوص البنيوية](../concepts/qa-report.json)
+- [A — كلمة سلطانة](concepts/concept-a-wordmark.svg)
+- [B — حرف س داخل قوس](concepts/concept-b-arch-monogram.svg)
+- [C — ختم سلطانة](concepts/concept-c-seal.svg)
+- [صفحة المقارنة والملاحظات](concepts/README.md)
+- [تقرير الفحوص البنيوية](concepts/qa-report.json)
 
 **التوصية المبدئية:** الاتجاه A، لكون الاسم نفسه هو أقوى أصل قابل للتذكر. هذه توصية ما قبل الاعتماد وليست قراراً نهائياً.
 
