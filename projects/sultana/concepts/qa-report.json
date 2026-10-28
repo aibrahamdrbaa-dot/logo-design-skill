@@ -42,7 +42,8 @@
   "limitations": [
     "These are concept explorations, not final client-approved artwork.",
     "The original repository's svg_audit.py was not run in this local environment; the recorded checks above are structural XML checks and Inkscape render checks.",
-    "No trademark clearance or competitor similarity search has been completed."
+    "No trademark clearance or competitor similarity search has been completed.",
+    "The first-round Arabic lettering is based on existing Arabic typefaces converted to vector paths; it is not yet a bespoke hand-drawn Arabic logotype. Letterform customization and optical refinement remain future work."
   ],
   "files": [
     {
