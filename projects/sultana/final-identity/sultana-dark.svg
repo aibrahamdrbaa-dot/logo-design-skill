@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<title>سلطانة — نسخة الخلفية الداكنة</title>
+<desc>الشعار العربي لسلطانة على خلفية بنية داكنة.</desc>
+<rect width="1200" height="700" fill="#29211F"/>
+<g fill="#FFFFFF">
+<text x="600" y="322" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Amiri" font-size="158" font-weight="400">سلطانة</text>
+<path d="M390 390 H530 M670 390 H810" stroke="#D8B998" stroke-width="2" fill="none" stroke-linecap="round"/>
+<path d="M600 378 L612 390 L600 402 L588 390 Z" fill="none" stroke="#D8B998" stroke-width="2"/>
+<text x="600" y="453" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Noto Sans Arabic" font-size="34" fill="#F7F2E9">صالون تجميل</text>
+</g></svg>
