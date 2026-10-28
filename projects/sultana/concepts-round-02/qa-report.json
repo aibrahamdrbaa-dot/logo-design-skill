@@ -1,0 +1,48 @@
+{
+  "project": "Sultana salon — Direction A — round 02",
+  "status": "visual-review draft awaiting user approval",
+  "renderer": "Inkscape",
+  "visual_checks": [
+    {
+      "item": "Arabic word",
+      "status": "PASS",
+      "note": "Rendered and visually reviewed; reads as سلطانَة / سلطانة."
+    },
+    {
+      "item": "Hierarchy",
+      "status": "PASS",
+      "note": "Salon name is the dominant element; descriptor is secondary."
+    },
+    {
+      "item": "Contrast on warm light background",
+      "status": "PASS",
+      "note": "Dark ink text against warm ivory background."
+    },
+    {
+      "item": "Dark background variant",
+      "status": "PASS",
+      "note": "Cream lettering and subdued champagne divider remain visible."
+    },
+    {
+      "item": "Spacing and balance",
+      "status": "PASS",
+      "note": "Centered wordmark, divider, and descriptor; generous surrounding space."
+    },
+    {
+      "item": "Vector output",
+      "status": "PASS",
+      "note": "Outlined SVG created by converting text to paths using Inkscape."
+    }
+  ],
+  "limitations": [
+    "The typography is based on existing Arabic typefaces and has not yet been custom-drawn letter by letter.",
+    "No physical print test or trademark clearance has been completed.",
+    "The editable SVG depends on Amiri and Noto Sans Arabic fonts; use the outlined SVG for portable output."
+  ],
+  "palette": {
+    "warm_ivory": "#F7F2E9",
+    "ink_brown": "#29211F",
+    "champagne": "#9B795A",
+    "secondary_text": "#66564D"
+  }
+}
